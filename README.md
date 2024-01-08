@@ -7,3 +7,5 @@
 - Change panren
 - Nanum change panren
 - Ila panadha
+- Last try
+- Azhudhuruven
