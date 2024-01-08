@@ -4,3 +4,4 @@
 - Parama
 - Padi
 - Da
+- Change panren
